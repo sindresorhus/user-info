@@ -1,0 +1,47 @@
+{
+  "name": "user-info",
+  "version": "0.0.0",
+  "description": "Node.js `os.userInfo()` ponyfill",
+  "license": "MIT",
+  "repository": "sindresorhus/user-info",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "userInfo",
+    "os",
+    "user",
+    "info",
+    "builtin",
+    "core",
+    "ponyfill",
+    "polyfill",
+    "shim",
+    "passwd",
+    "shell",
+    "uid",
+    "gid",
+    "homedir",
+    "username"
+  ],
+  "dependencies": {
+    "os-homedir": "^1.0.1",
+    "passwd-user": "^1.2.1",
+    "username": "^1.0.1"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}
