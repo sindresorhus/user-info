@@ -1,10 +1,8 @@
 # user-info [![Build Status](https://travis-ci.org/sindresorhus/user-info.svg?branch=master)](https://travis-ci.org/sindresorhus/user-info)
 
-> Node.js `os.userInfo()` ponyfill
+> Node.js [`os.userInfo()`](https://nodejs.org/api/os.html#os_os_userinfo_options) ponyfill
 
 > Ponyfill: A polyfill that doesn't overwrite the native method
-
-See the Node.js [pull request](https://github.com/nodejs/node/pull/6104) for more info.
 
 
 ## Install
@@ -34,7 +32,7 @@ console.log(userInfo());
 
 ## API
 
-~~See the [`os.userInfo()` docs]().~~ *(Not yet)*
+See the [`os.userInfo()` docs](https://nodejs.org/api/os.html#os_os_userinfo_options).
 
 The `encoding` option is not supported.
 
