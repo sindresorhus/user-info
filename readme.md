@@ -1,8 +1,6 @@
 # user-info [![Build Status](https://travis-ci.org/sindresorhus/user-info.svg?branch=master)](https://travis-ci.org/sindresorhus/user-info)
 
-> Node.js [`os.userInfo()`](https://nodejs.org/api/os.html#os_os_userinfo_options) ponyfill
-
-> Ponyfill: A polyfill that doesn't overwrite the native method
+> Node.js [`os.userInfo()`](https://nodejs.org/api/os.html#os_os_userinfo_options) [ponyfill](https://ponyfill.com)
 
 
 ## Install
