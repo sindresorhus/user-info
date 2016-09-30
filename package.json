@@ -1,6 +1,6 @@
 {
   "name": "user-info",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Node.js `os.userInfo()` ponyfill",
   "license": "MIT",
   "repository": "sindresorhus/user-info",
