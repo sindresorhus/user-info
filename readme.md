@@ -1,3 +1,9 @@
+# Deprecated
+
+This package is no longer relevant as Node.js 4 is unmaintained.
+
+---
+
 # user-info [![Build Status](https://travis-ci.org/sindresorhus/user-info.svg?branch=master)](https://travis-ci.org/sindresorhus/user-info)
 
 > Node.js [`os.userInfo()`](https://nodejs.org/api/os.html#os_os_userinfo_options) [ponyfill](https://ponyfill.com)
